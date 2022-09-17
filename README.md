@@ -1,5 +1,5 @@
-# IntermediateTraining
-IntermediateTraining
+# Software Engineering Training: Intermediate
+Software Engineering Training: Intermediate
 
 助教姓名：陈焕泽    
 
@@ -7,7 +7,7 @@ IntermediateTraining
 
 1)项目总体进展情况如何?
 
-项目1完成了Gridworld的partl、part2、part4中的练习题，实现了其中要求的类的功能，完成代码编写以及测试。
+项目1完成了Gridworld的part1、part2、part4中的练习题，实现了其中要求的类的功能，完成代码编写以及测试。
 
 2)项目1进展:
 
