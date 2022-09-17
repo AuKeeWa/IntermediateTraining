@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gridworld">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gridworld.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/gridworld.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gridworld.jar!/" />
+    </SOURCES>
+  </library>
+</component>
